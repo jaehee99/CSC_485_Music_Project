@@ -1,4 +1,4 @@
-## Project Proposal 
+# Project Proposal 
 
 ## 0. Brief Overview of what we are going to do 
 - Look at the evolution of music genre trends over the last century. 
