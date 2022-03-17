@@ -64,7 +64,7 @@ of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/
 - Description: 
 
 4. [Exploring the Tale of Music Through Data Visualization](https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/)
-- Description: 
+- Description: This article shows the interactive plot (The x-axis describes mean popularity of songs assessed on a scale of 0 to 100. 0 means the song is least popular and 100 means it is most popular. The y-axis shows the number of songs produced in each genre. The size of the bubble describes the number of artists producing music in each genre.) It's not exactly the same, but it gave us the idea that we could make interactive plots like this.
 
 
 
