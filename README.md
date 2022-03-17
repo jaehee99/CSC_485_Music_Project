@@ -17,15 +17,16 @@
 ### Data Preparation 
 
 <dl>
-- A brief description of the domain - what is it, and why do people care about it?
+  <dt> A brief description of the domain - what is it, and why do people care about it? </dt> 
   <dt> A description and link to the dataset. </dt> 
   <dd>The data that we are going to use is dervied from Spotify via the spotifyr package. Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff authored this package to make it easier to get our own data or general metadata arounds songs from Spotify's API. </dd> 
   <dd> [Link to the dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md) </dd> 
+  <dd> What type of dataset is it? </dd> 
+  <dd> What are the items and attributes? </dd> 
+  <dd> How big is it (number of items and attributes)? </dd> 
+  <dd> Do you have it in hand already, and if not, why not? </dd> 
 </dl>
-- What type of dataset is it?
-- What are the items and attributes?
-- How big is it (number of items and attributes)?
-- Do you have it in hand already, and if not, why not?
+
 
 ## 3. Related Work
 ##### We found 3 significant projects or papers and described how they are relevant to our topic.
