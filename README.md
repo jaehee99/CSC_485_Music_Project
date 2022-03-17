@@ -21,7 +21,7 @@
   <dt> A description and link to the dataset. </dt> 
   <dd>The data that we are going to use is dervied from Spotify via the spotifyr package. Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff authored this package to make it easier to get our own data or general metadata arounds songs from Spotify's API. </dd> 
  </dl> 
-    [Link to the dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md) 
+ [Link to the dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md)
 <dl> 
   <dt> What type of dataset is it? </dt> 
   <dt> What are the items and attributes? </dt> 
