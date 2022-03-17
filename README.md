@@ -28,9 +28,11 @@
 
 <dl> 
   <dt> What type of dataset is it? </dt> 
+  <dd> This is table dataset, we have our dataset in csv file format </dd> 
   <dt> What are the items and attributes? </dt> 
  
 <img src = "image_folder/variable_description.png">
+<img src = "image_folder/summary_spotify_data.png">
 
   <dt> How big is it (number of items and attributes)? </dt> 
   <dd> There are 32,833 observations </dd> 
@@ -65,3 +67,8 @@ of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/
 
 
 ## 4. Initial Sketches
+### Sheet 1: Brainstorming
+
+### Sheets 2, 3, 4: Details for three separate ideas
+
+### Sheet 5: Realization
