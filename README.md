@@ -29,8 +29,7 @@
 <dl> 
   <dt> What type of dataset is it? </dt> 
   <dt> What are the items and attributes? </dt> 
-![GitHub Logo](https://github.com/jaehee99/CSC_485_Group/blob/main/image_folder/variable_description.png)
-
+![GitHub Logo](https://github.com/jaehee99/CSC_485_Music_Project/blob/main/image_folder/variable_description.png)
 
   <dt> How big is it (number of items and attributes)? </dt> 
   <dt> Do you have it in hand already, and if not, why not? </dt> 
