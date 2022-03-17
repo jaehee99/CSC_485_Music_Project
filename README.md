@@ -29,7 +29,7 @@
 <dl> 
   <dt> What type of dataset is it? </dt> 
   <dt> What are the items and attributes? </dt> 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](./image_folder/variable_description.png)
 
   <dt> How big is it (number of items and attributes)? </dt> 
   <dt> Do you have it in hand already, and if not, why not? </dt> 
