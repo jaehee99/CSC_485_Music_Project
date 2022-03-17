@@ -31,7 +31,7 @@
   <dt> What are the items and attributes? </dt> 
  
 <img src="images/github-small.png" width="100">
-![](image_folder/variable_description.png)
+![](../image_folder/variable_description.png)
 
   <dt> How big is it (number of items and attributes)? </dt> 
   <dt> Do you have it in hand already, and if not, why not? </dt> 
