@@ -21,9 +21,10 @@
 - Do you have it in hand already, and if not, why not?
 
 ## 3. Related Work
-We found 3 significant projects or papers and described how they are relevant to our topic.
-1. 
-[Exploring the Tale of Music Through Data Visualization](https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/)
+##### We found 3 significant projects or papers and described how they are relevant to our topic.
+
+1. [Exploring the Tale of Music Through Data Visualization](https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/)
+2. 
 
 
 ## 4. Initial Sketches
