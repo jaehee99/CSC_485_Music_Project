@@ -29,7 +29,7 @@
 <dl> 
   <dt> What type of dataset is it? </dt> 
   <dt> What are the items and attributes? </dt> 
-![GitHub Logo](/image_folder/variable_description.png)
+![GitHub Logo](../image_folder/variable_description.png)
 
 
   <dt> How big is it (number of items and attributes)? </dt> 
