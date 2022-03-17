@@ -46,13 +46,21 @@
 
 
 ## 3. Related Work
-##### We found 3 significant projects or papers and described how they are relevant to our topic.
+##### We found 4 significant projects or papers and described how they are relevant to our topic.
 
 1. [The Development Trend of Musicians' Influence and Music Genres
 of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/1?pq-origsite=gscholar&cbl=2040555)
+- Description: 
+
 2. [Gaining Musical Insights: Visualizing Multiple](https://www.medien.ifi.lmu.de/pubdb/publications/pub/chen2010VISSW/chen2010VISSW.pdf)
+- Description: 
+
 3. [The Evolution of Music Genre Popularity](https://thedataface.com/2016/09/culture/genre-lifecycles)
+- Description: 
+
 4. [Exploring the Tale of Music Through Data Visualization](https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/)
+- Description: 
+
 
 
 
