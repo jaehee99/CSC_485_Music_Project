@@ -38,6 +38,7 @@
   
   <dt> Do you have it in hand already, and if not, why not? </dt> 
   <dd> Yes, our team have the data for our own. We derived dataset from tidytuesday github and removed unnecessary variables and renamed the variable names so that it is clear for us to analyze later. Then we saved that using write_csv in R and saved and uploaded the file to the data folder. Inside data folder we have a file called spotify_music_data.csv </dd> 
+ - [Link to the spotify_music_data](
 </dl>
 
 
