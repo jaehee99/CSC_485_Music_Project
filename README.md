@@ -13,6 +13,10 @@
 - Jaehee Lee, jl8883a@student.american.edu
 
 ## 2. Domain and Data
+
+### Data Preparation 
+The data that we are going to use is dervied from Spotify via the spotifyr package. Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff authored this package to make it easier to get either your own data or general metadata arounds songs from Spotify's API. 
+
 - A brief description of the domain - what is it, and why do people care about it?
 - A description and link to the dataset.
 - What type of dataset is it?
