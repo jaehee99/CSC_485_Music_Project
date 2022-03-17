@@ -30,7 +30,7 @@
   <dt> What type of dataset is it? </dt> 
   <dt> What are the items and attributes? </dt> 
  
-![](main/image_folder/variable_description)
+![](image_folder/variable_description)
 
   <dt> How big is it (number of items and attributes)? </dt> 
   <dt> Do you have it in hand already, and if not, why not? </dt> 
