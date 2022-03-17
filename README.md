@@ -19,7 +19,7 @@
 <dl>
   <dt> A brief description of the domain - what is it, and why do people care about it? </dt> 
   <dt> A description and link to the dataset. </dt> 
-  <dd>The data that we are going to use is dervied from Spotify via the spotifyr package. Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff authored this package to make it easier to get our own data or general metadata arounds songs from Spotify's API. The Spotify data used for this project is a contiguous dataset of over 30,000 songs with 12 audio features for each track, including confidence measures like acousticness,liveness, speechiness and instrumentalness, perceptual measures like energy, loudness, danceablity and valence (positiveness), and descriptors like duration,key, tempo and mode. </dd> 
+  <dd>The data that we are going to use is dervied from Spotify via the spotifyr package. Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff authored this package to make it easier to get our own data or general metadata arounds songs from Spotify's API.  </dd> 
 </dl> 
 
 - [Link to the dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md)
@@ -29,6 +29,8 @@
 <dl> 
   <dt> What type of dataset is it? </dt> 
   <dd> This is table dataset, we have our dataset in csv file format </dd> 
+  <dd> The Spotify data used for this project is a dataset of over 30,000 songs with 12 audio features for each track, including measures like acousticness,liveness, speechiness and instrumentalness, perceptual measures like energy, loudness, danceablity and valence (positiveness), and descriptors like duration,key, tempo and mode. This dataset also includes other variables such as date, song name, artist, etc. </dd> 
+  
   <dt> What are the items and attributes? </dt> 
  
 <img src = "image_folder/variable_description.png">
