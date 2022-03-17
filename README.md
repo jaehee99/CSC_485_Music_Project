@@ -33,7 +33,11 @@
 <img src = "image_folder/variable_description.png">
 
   <dt> How big is it (number of items and attributes)? </dt> 
+  <dd> There are 32,833 observations </dd> 
+  <dd> There are 20 variables </dd> 
+  
   <dt> Do you have it in hand already, and if not, why not? </dt> 
+  <dd> Yes, our team have the data for our own. We derived dataset from tidytuesday github and removed unnecessary variables and renamed the variable names so that it is clear for us to analyze </dd> 
 </dl>
 
 
