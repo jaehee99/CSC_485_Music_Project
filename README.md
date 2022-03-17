@@ -29,6 +29,8 @@
 <dl> 
   <dt> What type of dataset is it? </dt> 
   <dt> What are the items and attributes? </dt> 
+  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
   <dt> How big is it (number of items and attributes)? </dt> 
   <dt> Do you have it in hand already, and if not, why not? </dt> 
 </dl>
