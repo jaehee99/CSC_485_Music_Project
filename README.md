@@ -1,4 +1,10 @@
 ## Project Proposal 
+
+## 0. Brief Overview of what we are going to do 
+- Look at the evolution of music genre trends over the last century. 
+- To assess the evolution of different music genres, in the U.S., over the last century by looking at the number of streams regarding that particular genre over time. 
+- See the trends regarding each genre
+
 ## 1. Project title & Team Information
 ### Project name: Music Trends
 ### Group members: 
