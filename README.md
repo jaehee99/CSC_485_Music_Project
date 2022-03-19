@@ -18,6 +18,8 @@
 
 <dl>
   <dt> A brief description of the domain - what is it, and why do people care about it? </dt> 
+  <dd> This dataset is a collection of over 30,000 songs taken from Spotify. Music has always played a crucial role in human culture and traditions and will continue to do so. Gaining insight into how music has changed over time would be something people care about. </dd>
+
   <dt> A description and link to the dataset. </dt> 
   <dd>The data that we are going to use is dervied from Spotify via the spotifyr package. Charlie Thompson, Josiah Parry, Donal Phipps, and Tom Wolff authored this package to make it easier to get our own data or general metadata arounds songs from Spotify's API.  </dd> 
 </dl> 
