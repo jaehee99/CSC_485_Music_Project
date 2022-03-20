@@ -57,7 +57,7 @@
 
 1. [The Development Trend of Musicians' Influence and Music Genres
 of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/1?pq-origsite=gscholar&cbl=2040555)
-- Description: 
+- Description: Throughout this article authors, Zhang Xi chun and He Li, display the trends, regarding the influence of populars artists(i.e. The Beatles, Bob Dylan, and etc,), with regards to pop/rock and country genres, and how this has evolved overtime. They do so by taking survey responses, from the website AllMusic, and forming them into a variety of different idioms(i.e. line charts, neural networks, and etc.). With that being said, this article really gave our group a sense of how we can approach this topic(i.e. Gave us an idea of what kinds of idioms we could use, the different operations or ineractivity we could implement, and etc.).
 
 2. [Gaining Musical Insights: Visualizing Multiple](https://www.medien.ifi.lmu.de/pubdb/publications/pub/chen2010VISSW/chen2010VISSW.pdf)
 - Description: 
