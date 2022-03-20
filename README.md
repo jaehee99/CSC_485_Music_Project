@@ -63,7 +63,7 @@ of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/
 - Description: 
 
 3. [The Evolution of Music Genre Popularity](https://thedataface.com/2016/09/culture/genre-lifecycles)
-- Description: 
+- Description: This article looks at the popularity of music genres overtime and it does so by taking data from the Billboard 100, dating back from 1964 to 2016, and formats this data in a way where the idioms(i.e. Tree maps and line charts) show the user the number of listeners/popularity each genre has overtime. That being said, this article is very similar to our topic in the sense that it also looks at the impact of genres overtime, and, for this reason, we also look to it as a frame of refrence even though we are planning on utilizing a different dataset and idioms.     
 
 4. [Exploring the Tale of Music Through Data Visualization](https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/)
 - Description: This article shows the interactive plot (The x-axis describes mean popularity of songs assessed on a scale of 0 to 100. 0 means the song is least popular and 100 means it is most popular. The y-axis shows the number of songs produced in each genre. The size of the bubble describes the number of artists producing music in each genre.) It's not exactly the same, but it gave us the idea that we could make interactive plots like this.
