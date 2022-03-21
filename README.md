@@ -76,4 +76,7 @@ of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/
 
 ### Sheets 2, 3, 4: Details for three separate ideas
 
+#### Sheet 3 
+<img src = "image_folder/sheet3.png">
+
 ### Sheet 5: Realization
