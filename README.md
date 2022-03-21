@@ -73,9 +73,9 @@ of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/
 
 ## 4. Initial Sketches
 ### Sheet 1: Brainstorming
-
+<img src = "image_folder/sheet1.png"> 
 ### Sheets 2, 3, 4: Details for three separate ideas
-
+<img src = "image_folder/sheet2.png">
 #### Sheet 3 
 <img src = "image_folder/sheet3.png">
 
