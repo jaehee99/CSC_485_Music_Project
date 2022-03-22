@@ -54,19 +54,16 @@
 
 
 ## 3. Related Work
-##### We found 4 significant projects or papers and described how they are relevant to our topic.
+##### We found 3 significant projects or papers and described how they are relevant to our topic.
 
 1. [The Development Trend of Musicians' Influence and Music Genres
 of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/1?pq-origsite=gscholar&cbl=2040555)
 - Description: Throughout this article authors, Zhang Xi chun and He Li, display the trends, regarding the influence of populars artists(i.e. The Beatles, Bob Dylan, and etc,), with regards to pop/rock and country genres, and how this has evolved overtime. They do so by taking survey responses, from the website AllMusic, and forming them into a variety of different idioms(i.e. line charts, neural networks, and etc.). With that being said, this article really gave our group a sense of how we can approach this topic(i.e. Gave us an idea of what kinds of idioms we could use, the different operations or ineractivity we could implement, and etc.).
 
-2. [Gaining Musical Insights: Visualizing Multiple](https://www.medien.ifi.lmu.de/pubdb/publications/pub/chen2010VISSW/chen2010VISSW.pdf)
-- Description: 
-
-3. [The Evolution of Music Genre Popularity](https://thedataface.com/2016/09/culture/genre-lifecycles)
+2. [The Evolution of Music Genre Popularity](https://thedataface.com/2016/09/culture/genre-lifecycles)
 - Description: This article looks at the popularity of music genres overtime and it does so by taking data from the Billboard 100, dating back from 1964 to 2016, and formats this data in a way where the idioms(i.e. Tree maps and line charts) show the user the number of listeners/popularity each genre has overtime. That being said, this article is very similar to our topic in the sense that it also looks at the impact of genres overtime, and, for this reason, we also look to it as a frame of refrence even though we are planning on utilizing a different dataset and idioms.     
 
-4. [Exploring the Tale of Music Through Data Visualization](https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/)
+3. [Exploring the Tale of Music Through Data Visualization](https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/)
 - Description: This article shows the interactive plot (The x-axis describes mean popularity of songs assessed on a scale of 0 to 100. 0 means the song is least popular and 100 means it is most popular. The y-axis shows the number of songs produced in each genre. The size of the bubble describes the number of artists producing music in each genre.) It's not exactly the same, but it gave us the idea that we could make interactive plots like this.
 
 
