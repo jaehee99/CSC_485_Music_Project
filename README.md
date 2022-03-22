@@ -11,6 +11,7 @@
 - Faiza Niazi, fn8788a@student.american.edu 
 - Sem Lukichev, sl8139a@student.american.edu 
 - Jaehee Lee, jl8883a@student.american.edu
+- Nathan Payson, np104a@student.american.edu
 
 ## 2. Domain and Data
 
