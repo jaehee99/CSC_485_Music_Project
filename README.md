@@ -3,15 +3,15 @@
 ## 0. Brief Overview of what we are going to do 
 
 #### What does the final visualization look like?
-1) Users can first see the overall trend of the music genre over time. (1950~2020)
-2) It then adds a feature that allows users to enlarge a specific period of time according to the period they want to view.
-3) If the user clicks 'View for a specific period of time', the user can look at the 'popularity' and 'number of songs' of each genre at that time.
-4) Users can not only explore genres over time, but also explore subgenres (the dataset we have consists of 6 genres and 24 subgenres).
+- Users can first see the overall trend of the music genre over time. (1950~2020)
+- It then adds a feature that allows users to enlarge a specific period of time according to the period they want to view.
+- If the user clicks 'view for a specific period of time', the user can look at the 'popularity' and 'number of songs' of each genre at that time.
+- Users can not only explore genres over time, but also explore subgenres (the dataset we have consists of 6 genres and 24 subgenres).
 
 #### What can users expect from this visualization project?
--Users can see the evolution of music genre trends in the last century.
--Users can evaluate the evolution of various music genres by looking at the number of streams for a particular genre over the past century.
--Users can see trends for each genre and subgenre.
+- Users can see the evolution of music genre trends in the last century.
+- Users can evaluate the evolution of various music genres by looking at the number of streams for a particular genre over the past century.
+- Users can see trends for each genre and subgenre.
 
 #### Goal of our project: 
 - Create a interactive visualization that is aesthetically pleasing and multifacted. 
