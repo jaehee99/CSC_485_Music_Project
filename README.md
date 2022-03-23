@@ -86,3 +86,5 @@ of Big Data](https://www.proquest.com/openview/17bb5be076553ced83db813f341274a9/
 <img src = "image_folder/sheet4.png">
 
 ### Sheet 5: Realization
+<img src = "image_folder/sheet5.png">
+
