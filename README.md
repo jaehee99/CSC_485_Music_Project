@@ -1,16 +1,23 @@
 # Project Proposal 
 
 ## 0. Brief Overview of what we are going to do 
-#### How will the final visualization look like? 
-1) User will first see the overall trends of the music genre over time. (1950 ~ 2020) 
-2) Then, depending on which time period the user want to look at, we can create a function that can give a zoom in specific period. 
-3) User can explore the "popularity" and "number of songs" of each period by each genre. 
-4) Not only user can explore genre over time, but also explore the sub-genre (The dataset that we have has 6 genres 24 sub-genres).
 
-#### What can the user expect from this visualization project? 
-- Users can look at the evolution of music genre trends over the last century. 
-- Users can assess the evolution of different music genres, over the last century by looking at the number of streams regarding that particular genre over time. 
-- Users can see the trends regarding each genre and each sub-genre
+#### What does the final visualization look like?
+1) Users can first see the overall trend of the music genre over time. (1950~2020)
+2) It then adds a feature that allows users to enlarge a specific period of time according to the period they want to view.
+3) If the user clicks 'View for a specific period of time', the user can look at the 'popularity' and 'number of songs' of each genre at that time.
+4) Users can not only explore genres over time, but also explore subgenres (the dataset we have consists of 6 genres and 24 subgenres).
+
+#### What can users expect from this visualization project?
+-Users can see the evolution of music genre trends in the last century.
+-Users can evaluate the evolution of various music genres by looking at the number of streams for a particular genre over the past century.
+-Users can see trends for each genre and subgenre.
+
+#### Goal of our project: 
+- Create a interactive visualization that is aesthetically pleasing and multifacted. 
+- Make a project that users can grasp the flow of music genre over time.
+- Moreover, this project can help users explore how the trends of music change according to certain cultural events, so they can connect our project to the certain cultural events.
+
 
 ## 1. Project title & Team Information
 ### Project name: Music Genre Trends
