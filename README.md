@@ -1,6 +1,12 @@
 # Project Proposal 
 
 ## 0. Brief Overview of what we are going to do 
+#### How will the final visualization look like? 
+1) User will first see the overall trends of the music genre over time. (1950 ~ 2020) 
+2) Then, depending on which time period the user want to look at, we can create a function that can give a zoom in specific period. 
+3) User can explore the "popularity" and "number of songs" of each period by each genre. 
+4) The dataset that we have has 6 genres 24 sub-genres
+
 - Look at the evolution of music genre trends over the last century. 
 - To assess the evolution of different music genres, in the U.S., over the last century by looking at the number of streams regarding that particular genre over time. 
 - See the trends regarding each genre
