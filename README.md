@@ -1,6 +1,6 @@
 # Project Proposal 
 
-## 0. Brief Overview of what we are going to do 
+## 0. Brief Overview
 
 #### What does the final visualization look like?
 - Users can first see the overall trend of the music genre over time. (1950~2020)
