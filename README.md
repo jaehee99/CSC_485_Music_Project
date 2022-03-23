@@ -16,7 +16,7 @@
 #### Goal of our project: 
 - Create a interactive visualization that is aesthetically pleasing and multifacted. 
 - Make a project that users can grasp the flow of music genre over time.
-- Moreover, this project can help users explore how the trends of music change according to certain cultural events, so they can connect our project to the certain cultural events.
+- Create a project that explores how the trends of music have been changed according to certain cultural events. The goal of this project is to help the users connect this visualization to the certain cultural events that affected the music trends.
 
 
 ## 1. Project title & Team Information
