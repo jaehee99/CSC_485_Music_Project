@@ -1,12 +1,26 @@
 # Project Proposal 
 
-## 0. Brief Overview of what we are going to do 
-- Look at the evolution of music genre trends over the last century. 
-- To assess the evolution of different music genres, in the U.S., over the last century by looking at the number of streams regarding that particular genre over time. 
-- See the trends regarding each genre
+## 0. Brief Overview
+
+#### What does the final visualization look like?
+- Users can first see the overall trend of the music genre over time. (1950~2020)
+- It then adds a feature that allows users to enlarge a specific period of time according to the period they want to view.
+- If the user clicks 'view for a specific period of time', the user can look at the 'popularity' and 'number of songs' of each genre at that time.
+- Users can not only explore genres over time, but also explore subgenres (the dataset we have consists of 6 genres and 24 subgenres).
+
+#### What can users expect from this visualization project?
+- Users can see the evolution of music genre trends in the last century.
+- Users can evaluate the evolution of various music genres by looking at the number of streams for a particular genre over the past century.
+- Users can see trends for each genre and subgenre.
+
+#### Goal of our project: 
+- Create a interactive visualization that is aesthetically pleasing and multifacted. 
+- Make a project that users can grasp the flow of music genre over time.
+- This project can help users learn how music trends have changed with specific cultural events. The goal of the project is to help users connect music trends with specific cultural events through this visualization.
+
 
 ## 1. Project title & Team Information
-### Project name: Music Trends
+### Project name: Music Genre Trends
 ### Group members: 
 - Faiza Niazi, fn8788a@student.american.edu 
 - Sem Lukichev, sl8139a@student.american.edu 
