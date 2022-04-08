@@ -18,12 +18,21 @@ sum(is.na(updated_spotify_music_data$year)) # There are 1886 NAs in this "year" 
 # For example, "2019-06-14" or "2011"
 
 updated_spotify_music_data$year <- ifelse(is.na(updated_spotify_music_data$year), 
-                                          updated_spotify_music_data$relese_date, 
+                                          updated_spotify_music_data$release_date, 
                                           updated_spotify_music_data$year) # Use ifelse statement to replace NAs with year values in release_date variable 
 sum(is.na(updated_spotify_music_data$year)) # check if it is resolved
 head(updated_spotify_music_data) # show first 6 rows to check how it is going 
 names(updated_spotify_music_data) # show the variable names 
 updated_spotify_music_data %>%  
-  select(c("track_name", "track_album_name", "playlist_name","artist", "popularity", "genre", "subgenre", "year", "danceability", "energy", "key", "loudness", "mode", "speechiness", "acousticness", "instrumentalness", "liveness", "valence", "tempo", "duration_ms")) -> spotifyMusic
-write_csv(spotifyMusic, "spotifyMusic.csv")
+  select(c("track_name", "track_album_name", "playlist_name","artist", "popularity", "genre", "subgenre", "year", "danceability", "energy", "key", "loudness", "mode", "speechiness", "acousticness", "instrumentalness", "liveness", "valence", "tempo", "duration_ms")) -> Spotify_Music
+
+str(Spotify_Music) # found out that year is in chr, so change the datatype into double 
+Spotify_Music$year<- as.numeric(Spotify_Music$year)
+typeof(Spotify_Music$year)
+str(Spotify_Music)
+
+
+
+write_csv(Spotify_Music, "Spotify_Music.csv")
+
 
