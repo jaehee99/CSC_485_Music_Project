@@ -26,3 +26,4 @@ names(updated_spotify_music_data) # show the variable names
 updated_spotify_music_data %>%  
   select(c("track_name", "track_album_name", "playlist_name","artist", "popularity", "genre", "subgenre", "year", "danceability", "energy", "key", "loudness", "mode", "speechiness", "acousticness", "instrumentalness", "liveness", "valence", "tempo", "duration_ms")) -> spotifyMusic
 write_csv(spotifyMusic, "spotifyMusic.csv")
+
