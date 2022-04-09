@@ -31,8 +31,4 @@ Spotify_Music$year<- as.numeric(Spotify_Music$year)
 typeof(Spotify_Music$year)
 str(Spotify_Music)
 
-
-
 write_csv(Spotify_Music, "Spotify_Music.csv")
-
-
