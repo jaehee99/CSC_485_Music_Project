@@ -1,0 +1,889 @@
+"","genre","subgenre","year","subgenre_mean"
+"1","edm","big room",1995,33
+"2","edm","big room",1996,42
+"3","edm","big room",1999,57
+"4","edm","big room",2000,60
+"5","edm","big room",2002,54
+"6","edm","big room",2003,69
+"7","edm","big room",2004,65
+"8","edm","big room",2005,51
+"9","edm","big room",2006,4
+"10","edm","big room",2007,52
+"11","edm","big room",2009,2
+"12","edm","big room",2010,40.6666666666667
+"13","edm","big room",2011,42
+"14","edm","big room",2012,31.4166666666667
+"15","edm","big room",2013,22.6744186046512
+"16","edm","big room",2014,19.4045801526718
+"17","edm","big room",2015,21.7739726027397
+"18","edm","big room",2016,27.3857142857143
+"19","edm","big room",2017,32.96875
+"20","edm","big room",2018,35.6071428571429
+"21","edm","big room",2019,37.2668711656442
+"22","edm","big room",2020,38.7435897435897
+"23","edm","electro house",1999,47.5
+"24","edm","electro house",2002,48
+"25","edm","electro house",2005,57
+"26","edm","electro house",2007,39
+"27","edm","electro house",2008,51
+"28","edm","electro house",2009,41.5
+"29","edm","electro house",2010,37.8333333333333
+"30","edm","electro house",2011,34.2
+"31","edm","electro house",2012,39.5714285714286
+"32","edm","electro house",2013,17.3260869565217
+"33","edm","electro house",2014,17.4857142857143
+"34","edm","electro house",2015,22.6666666666667
+"35","edm","electro house",2016,28.4090909090909
+"36","edm","electro house",2017,32.9354838709677
+"37","edm","electro house",2018,34.8377483443709
+"38","edm","electro house",2019,41.8545994065282
+"39","edm","electro house",2020,36.7659574468085
+"40","edm","pop edm",2000,71
+"41","edm","pop edm",2005,38
+"42","edm","pop edm",2006,77
+"43","edm","pop edm",2007,59.25
+"44","edm","pop edm",2008,50.5
+"45","edm","pop edm",2009,37.5
+"46","edm","pop edm",2010,55.0666666666667
+"47","edm","pop edm",2011,46.1904761904762
+"48","edm","pop edm",2012,58.3809523809524
+"49","edm","pop edm",2013,46
+"50","edm","pop edm",2014,39.3768115942029
+"51","edm","pop edm",2015,35.3311258278146
+"52","edm","pop edm",2016,36.6401869158879
+"53","edm","pop edm",2017,40.1962025316456
+"54","edm","pop edm",2018,41.4437086092715
+"55","edm","pop edm",2019,53.3835616438356
+"56","edm","pop edm",2020,48.4615384615385
+"57","edm","progressive electro house",1977,0
+"58","edm","progressive electro house",1978,41
+"59","edm","progressive electro house",1979,27.5
+"60","edm","progressive electro house",1980,29
+"61","edm","progressive electro house",1981,69
+"62","edm","progressive electro house",1982,43.5
+"63","edm","progressive electro house",1983,2
+"64","edm","progressive electro house",1990,35
+"65","edm","progressive electro house",1991,15
+"66","edm","progressive electro house",1993,31
+"67","edm","progressive electro house",1994,33
+"68","edm","progressive electro house",1998,52
+"69","edm","progressive electro house",2000,47
+"70","edm","progressive electro house",2001,45
+"71","edm","progressive electro house",2002,34
+"72","edm","progressive electro house",2003,20.75
+"73","edm","progressive electro house",2004,38
+"74","edm","progressive electro house",2005,16.2
+"75","edm","progressive electro house",2006,17.5
+"76","edm","progressive electro house",2007,6.47826086956522
+"77","edm","progressive electro house",2008,11.2105263157895
+"78","edm","progressive electro house",2009,8.84375
+"79","edm","progressive electro house",2010,10.9230769230769
+"80","edm","progressive electro house",2011,21.0606060606061
+"81","edm","progressive electro house",2012,24.6842105263158
+"82","edm","progressive electro house",2013,15.6701030927835
+"83","edm","progressive electro house",2014,17.9111969111969
+"84","edm","progressive electro house",2015,22.3166666666667
+"85","edm","progressive electro house",2016,22.9444444444444
+"86","edm","progressive electro house",2017,26.2978723404255
+"87","edm","progressive electro house",2018,35.1991869918699
+"88","edm","progressive electro house",2019,40.6885644768856
+"89","edm","progressive electro house",2020,31.1818181818182
+"90","latin","latin hip hop",1965,26
+"91","latin","latin hip hop",1976,72
+"92","latin","latin hip hop",1979,63
+"93","latin","latin hip hop",1981,42
+"94","latin","latin hip hop",1982,61.6666666666667
+"95","latin","latin hip hop",1983,26
+"96","latin","latin hip hop",1985,31.6666666666667
+"97","latin","latin hip hop",1986,34.4
+"98","latin","latin hip hop",1987,31
+"99","latin","latin hip hop",1988,32.6923076923077
+"100","latin","latin hip hop",1989,42
+"101","latin","latin hip hop",1990,32
+"102","latin","latin hip hop",1991,30.2222222222222
+"103","latin","latin hip hop",1993,46
+"104","latin","latin hip hop",1994,2
+"105","latin","latin hip hop",1995,32.1666666666667
+"106","latin","latin hip hop",1996,11.7
+"107","latin","latin hip hop",1997,37.8888888888889
+"108","latin","latin hip hop",1998,37.9
+"109","latin","latin hip hop",1999,46.1428571428571
+"110","latin","latin hip hop",2000,23
+"111","latin","latin hip hop",2001,23.0666666666667
+"112","latin","latin hip hop",2002,40.8333333333333
+"113","latin","latin hip hop",2003,30.9545454545455
+"114","latin","latin hip hop",2004,27.6551724137931
+"115","latin","latin hip hop",2005,23.04
+"116","latin","latin hip hop",2006,37.9333333333333
+"117","latin","latin hip hop",2007,17.2
+"118","latin","latin hip hop",2008,12.8695652173913
+"119","latin","latin hip hop",2009,42.74
+"120","latin","latin hip hop",2010,49.6440677966102
+"121","latin","latin hip hop",2011,45.2954545454545
+"122","latin","latin hip hop",2012,38.6666666666667
+"123","latin","latin hip hop",2013,31.14
+"124","latin","latin hip hop",2014,29.4411764705882
+"125","latin","latin hip hop",2015,32.4607843137255
+"126","latin","latin hip hop",2016,39.3333333333333
+"127","latin","latin hip hop",2017,37.6891891891892
+"128","latin","latin hip hop",2018,48.8084112149533
+"129","latin","latin hip hop",2019,67.6355685131195
+"130","latin","latin hip hop",2020,69.1428571428571
+"131","latin","latin pop",1979,55
+"132","latin","latin pop",1982,55
+"133","latin","latin pop",1984,36.5
+"134","latin","latin pop",1985,39.6666666666667
+"135","latin","latin pop",1987,41.6666666666667
+"136","latin","latin pop",1988,69.6666666666667
+"137","latin","latin pop",1989,47.6666666666667
+"138","latin","latin pop",1990,50.7
+"139","latin","latin pop",1991,49.5
+"140","latin","latin pop",1992,57.3333333333333
+"141","latin","latin pop",1993,51.6666666666667
+"142","latin","latin pop",1994,36.3333333333333
+"143","latin","latin pop",1995,45.4
+"144","latin","latin pop",1996,22.5
+"145","latin","latin pop",1997,36.7142857142857
+"146","latin","latin pop",1998,54.4285714285714
+"147","latin","latin pop",1999,29.5
+"148","latin","latin pop",2000,38.8571428571429
+"149","latin","latin pop",2001,49.4
+"150","latin","latin pop",2002,51.6
+"151","latin","latin pop",2003,44.8888888888889
+"152","latin","latin pop",2004,31.1333333333333
+"153","latin","latin pop",2005,46.05
+"154","latin","latin pop",2006,39.4230769230769
+"155","latin","latin pop",2007,42.9230769230769
+"156","latin","latin pop",2008,40.45
+"157","latin","latin pop",2009,42.0434782608696
+"158","latin","latin pop",2010,34.0740740740741
+"159","latin","latin pop",2011,39.4210526315789
+"160","latin","latin pop",2012,29.2972972972973
+"161","latin","latin pop",2013,37.5142857142857
+"162","latin","latin pop",2014,40.7608695652174
+"163","latin","latin pop",2015,38.4042553191489
+"164","latin","latin pop",2016,48.2051282051282
+"165","latin","latin pop",2017,49.9824561403509
+"166","latin","latin pop",2018,62.8705882352941
+"167","latin","latin pop",2019,58.48606271777
+"168","latin","latin pop",2020,47.7407407407407
+"169","latin","reggaeton",1991,60
+"170","latin","reggaeton",1999,51
+"171","latin","reggaeton",2002,61
+"172","latin","reggaeton",2003,47.875
+"173","latin","reggaeton",2004,34.7857142857143
+"174","latin","reggaeton",2005,47.6521739130435
+"175","latin","reggaeton",2006,34.5333333333333
+"176","latin","reggaeton",2007,36.3783783783784
+"177","latin","reggaeton",2008,37.0740740740741
+"178","latin","reggaeton",2009,37.6923076923077
+"179","latin","reggaeton",2010,38.3235294117647
+"180","latin","reggaeton",2011,26.15
+"181","latin","reggaeton",2012,39.2857142857143
+"182","latin","reggaeton",2013,30.8571428571429
+"183","latin","reggaeton",2014,29.0555555555556
+"184","latin","reggaeton",2015,44.9615384615385
+"185","latin","reggaeton",2016,54.1081081081081
+"186","latin","reggaeton",2017,59.2926829268293
+"187","latin","reggaeton",2018,61.8157894736842
+"188","latin","reggaeton",2019,64.7752525252525
+"189","latin","reggaeton",2020,54.2307692307692
+"190","latin","tropical",1990,61.3333333333333
+"191","latin","tropical",1995,59
+"192","latin","tropical",1996,64
+"193","latin","tropical",1997,46.1428571428571
+"194","latin","tropical",1998,58.75
+"195","latin","tropical",2000,63
+"196","latin","tropical",2001,68
+"197","latin","tropical",2002,69
+"198","latin","tropical",2004,42.25
+"199","latin","tropical",2005,52
+"200","latin","tropical",2006,40.6666666666667
+"201","latin","tropical",2007,60.3333333333333
+"202","latin","tropical",2008,61
+"203","latin","tropical",2009,27.5
+"204","latin","tropical",2010,43.8333333333333
+"205","latin","tropical",2011,52
+"206","latin","tropical",2012,62
+"207","latin","tropical",2013,54.2352941176471
+"208","latin","tropical",2014,47.5757575757576
+"209","latin","tropical",2015,41.843137254902
+"210","latin","tropical",2016,34.3630136986301
+"211","latin","tropical",2017,40.8
+"212","latin","tropical",2018,45.390625
+"213","latin","tropical",2019,45.0547703180212
+"214","latin","tropical",2020,37.8333333333333
+"215","pop","dance pop",1990,55
+"216","pop","dance pop",1991,12
+"217","pop","dance pop",1992,43
+"218","pop","dance pop",1993,55.2
+"219","pop","dance pop",1994,48.9090909090909
+"220","pop","dance pop",1995,40.1111111111111
+"221","pop","dance pop",1996,46.5
+"222","pop","dance pop",1997,55.6666666666667
+"223","pop","dance pop",1998,63
+"224","pop","dance pop",1999,28.2857142857143
+"225","pop","dance pop",2000,35.4
+"226","pop","dance pop",2001,46
+"227","pop","dance pop",2002,64
+"228","pop","dance pop",2003,63
+"229","pop","dance pop",2005,57
+"230","pop","dance pop",2006,48.5
+"231","pop","dance pop",2007,36.25
+"232","pop","dance pop",2008,43.8
+"233","pop","dance pop",2009,13.1111111111111
+"234","pop","dance pop",2010,47.6842105263158
+"235","pop","dance pop",2011,62.3529411764706
+"236","pop","dance pop",2012,60.48
+"237","pop","dance pop",2013,59.2857142857143
+"238","pop","dance pop",2014,58.3333333333333
+"239","pop","dance pop",2015,52.7
+"240","pop","dance pop",2016,61.5128205128205
+"241","pop","dance pop",2017,55.4197530864198
+"242","pop","dance pop",2018,47.2543859649123
+"243","pop","dance pop",2019,53.7595129375951
+"244","pop","dance pop",2020,44.7627118644068
+"245","pop","electropop",1975,51
+"246","pop","electropop",1978,35.6666666666667
+"247","pop","electropop",1979,62
+"248","pop","electropop",1980,43
+"249","pop","electropop",1981,36.1
+"250","pop","electropop",1982,46
+"251","pop","electropop",1983,44.0909090909091
+"252","pop","electropop",1984,42.7142857142857
+"253","pop","electropop",1985,39.5
+"254","pop","electropop",1986,32.2222222222222
+"255","pop","electropop",1987,38.4444444444444
+"256","pop","electropop",1988,51.25
+"257","pop","electropop",1989,47.4
+"258","pop","electropop",1990,36
+"259","pop","electropop",1991,20.6
+"260","pop","electropop",1992,39
+"261","pop","electropop",1993,68
+"262","pop","electropop",1994,35.6666666666667
+"263","pop","electropop",1995,40
+"264","pop","electropop",1996,42.375
+"265","pop","electropop",1997,40.5714285714286
+"266","pop","electropop",1998,36
+"267","pop","electropop",1999,51.6
+"268","pop","electropop",2000,45
+"269","pop","electropop",2001,35.35
+"270","pop","electropop",2002,43.4
+"271","pop","electropop",2003,32.5454545454545
+"272","pop","electropop",2004,34.625
+"273","pop","electropop",2005,28.0769230769231
+"274","pop","electropop",2006,21.2647058823529
+"275","pop","electropop",2007,35.8095238095238
+"276","pop","electropop",2008,31.3214285714286
+"277","pop","electropop",2009,15.15625
+"278","pop","electropop",2010,28.1311475409836
+"279","pop","electropop",2011,40.8039215686275
+"280","pop","electropop",2012,43.9365079365079
+"281","pop","electropop",2013,40.126582278481
+"282","pop","electropop",2014,37.989010989011
+"283","pop","electropop",2015,48.5571428571429
+"284","pop","electropop",2016,49.5735294117647
+"285","pop","electropop",2017,46.5
+"286","pop","electropop",2018,53.9022988505747
+"287","pop","electropop",2019,45.5636363636364
+"288","pop","electropop",2020,26.4285714285714
+"289","pop","electropop",NA,10
+"290","pop","indie poptimism",1985,66
+"291","pop","indie poptimism",1995,3
+"292","pop","indie poptimism",2000,57
+"293","pop","indie poptimism",2001,75
+"294","pop","indie poptimism",2002,36
+"295","pop","indie poptimism",2003,23.6666666666667
+"296","pop","indie poptimism",2004,62
+"297","pop","indie poptimism",2006,74
+"298","pop","indie poptimism",2007,59.5
+"299","pop","indie poptimism",2008,45.375
+"300","pop","indie poptimism",2009,51.5
+"301","pop","indie poptimism",2010,31
+"302","pop","indie poptimism",2011,62.25
+"303","pop","indie poptimism",2012,52.6470588235294
+"304","pop","indie poptimism",2013,38.3214285714286
+"305","pop","indie poptimism",2014,35.0153846153846
+"306","pop","indie poptimism",2015,32.3925619834711
+"307","pop","indie poptimism",2016,34.1829652996845
+"308","pop","indie poptimism",2017,45.2789473684211
+"309","pop","indie poptimism",2018,49.7058823529412
+"310","pop","indie poptimism",2019,51.2543859649123
+"311","pop","indie poptimism",2020,48.1414141414141
+"312","pop","post-teen pop",1969,80
+"313","pop","post-teen pop",1970,77
+"314","pop","post-teen pop",1973,75
+"315","pop","post-teen pop",1974,27
+"316","pop","post-teen pop",1976,76
+"317","pop","post-teen pop",1977,62
+"318","pop","post-teen pop",1978,67.25
+"319","pop","post-teen pop",1979,70.5
+"320","pop","post-teen pop",1980,77
+"321","pop","post-teen pop",1981,66.5
+"322","pop","post-teen pop",1982,64.3333333333333
+"323","pop","post-teen pop",1983,74
+"324","pop","post-teen pop",1984,39.2
+"325","pop","post-teen pop",1985,76.5
+"326","pop","post-teen pop",1986,20
+"327","pop","post-teen pop",1987,36.3333333333333
+"328","pop","post-teen pop",1988,35
+"329","pop","post-teen pop",1990,70.5
+"330","pop","post-teen pop",1991,81
+"331","pop","post-teen pop",1993,68
+"332","pop","post-teen pop",1994,79
+"333","pop","post-teen pop",1995,75
+"334","pop","post-teen pop",1996,56.3333333333333
+"335","pop","post-teen pop",1997,23.5
+"336","pop","post-teen pop",1998,66.5
+"337","pop","post-teen pop",1999,44.3333333333333
+"338","pop","post-teen pop",2000,76
+"339","pop","post-teen pop",2001,50.0909090909091
+"340","pop","post-teen pop",2002,54.5
+"341","pop","post-teen pop",2003,46
+"342","pop","post-teen pop",2004,62.1428571428571
+"343","pop","post-teen pop",2005,61.25
+"344","pop","post-teen pop",2006,52.6923076923077
+"345","pop","post-teen pop",2007,60.8095238095238
+"346","pop","post-teen pop",2008,34.9090909090909
+"347","pop","post-teen pop",2009,39.5476190476191
+"348","pop","post-teen pop",2010,52.9879518072289
+"349","pop","post-teen pop",2011,48.359375
+"350","pop","post-teen pop",2012,59.8518518518519
+"351","pop","post-teen pop",2013,55.1875
+"352","pop","post-teen pop",2014,52.8769230769231
+"353","pop","post-teen pop",2015,58.865671641791
+"354","pop","post-teen pop",2016,52.8205128205128
+"355","pop","post-teen pop",2017,53.1527777777778
+"356","pop","post-teen pop",2018,66.0510204081633
+"357","pop","post-teen pop",2019,66.25
+"358","pop","post-teen pop",2020,86.6
+"359","r&b","hip pop",1984,29
+"360","r&b","hip pop",1991,25
+"361","r&b","hip pop",1992,25.3333333333333
+"362","r&b","hip pop",1994,44.25
+"363","r&b","hip pop",1995,25.6666666666667
+"364","r&b","hip pop",1996,76
+"365","r&b","hip pop",1997,57.8571428571429
+"366","r&b","hip pop",1998,66
+"367","r&b","hip pop",1999,48.3636363636364
+"368","r&b","hip pop",2000,33
+"369","r&b","hip pop",2001,51.8235294117647
+"370","r&b","hip pop",2002,56.9523809523809
+"371","r&b","hip pop",2003,45
+"372","r&b","hip pop",2004,51.1764705882353
+"373","r&b","hip pop",2005,39.5
+"374","r&b","hip pop",2006,37.3076923076923
+"375","r&b","hip pop",2007,30.9230769230769
+"376","r&b","hip pop",2008,36.3333333333333
+"377","r&b","hip pop",2009,38.4285714285714
+"378","r&b","hip pop",2010,43.875
+"379","r&b","hip pop",2011,53.875
+"380","r&b","hip pop",2012,44.5
+"381","r&b","hip pop",2013,51.7142857142857
+"382","r&b","hip pop",2014,42.1304347826087
+"383","r&b","hip pop",2015,43
+"384","r&b","hip pop",2016,49.3846153846154
+"385","r&b","hip pop",2017,52.9621212121212
+"386","r&b","hip pop",2018,59.5255474452555
+"387","r&b","hip pop",2019,60.021568627451
+"388","r&b","hip pop",2020,48.8266666666667
+"389","r&b","neo soul",1960,13
+"390","r&b","neo soul",1963,73
+"391","r&b","neo soul",1964,45
+"392","r&b","neo soul",1966,66
+"393","r&b","neo soul",1967,45.6666666666667
+"394","r&b","neo soul",1968,48
+"395","r&b","neo soul",1971,76
+"396","r&b","neo soul",1975,60
+"397","r&b","neo soul",1979,27.3333333333333
+"398","r&b","neo soul",1981,32
+"399","r&b","neo soul",1983,34.5
+"400","r&b","neo soul",1984,32.6666666666667
+"401","r&b","neo soul",1985,34.75
+"402","r&b","neo soul",1986,47.5
+"403","r&b","neo soul",1987,30.5714285714286
+"404","r&b","neo soul",1988,10.3333333333333
+"405","r&b","neo soul",1989,0
+"406","r&b","neo soul",1990,53
+"407","r&b","neo soul",1991,43.3333333333333
+"408","r&b","neo soul",1992,47.25
+"409","r&b","neo soul",1993,32.4545454545455
+"410","r&b","neo soul",1994,56
+"411","r&b","neo soul",1995,29.7142857142857
+"412","r&b","neo soul",1996,38.8947368421053
+"413","r&b","neo soul",1997,35.4230769230769
+"414","r&b","neo soul",1998,19.8
+"415","r&b","neo soul",1999,28.7368421052632
+"416","r&b","neo soul",2000,38.7179487179487
+"417","r&b","neo soul",2001,32.0769230769231
+"418","r&b","neo soul",2002,36.5588235294118
+"419","r&b","neo soul",2003,23.9761904761905
+"420","r&b","neo soul",2004,27.0322580645161
+"421","r&b","neo soul",2005,24.3513513513514
+"422","r&b","neo soul",2006,20.1428571428571
+"423","r&b","neo soul",2007,17.9166666666667
+"424","r&b","neo soul",2008,18.1447368421053
+"425","r&b","neo soul",2009,17.2682926829268
+"426","r&b","neo soul",2010,28.1724137931034
+"427","r&b","neo soul",2011,23.7457627118644
+"428","r&b","neo soul",2012,29.9827586206897
+"429","r&b","neo soul",2013,25.016393442623
+"430","r&b","neo soul",2014,23.390243902439
+"431","r&b","neo soul",2015,35
+"432","r&b","neo soul",2016,36.1927710843374
+"433","r&b","neo soul",2017,39.8908045977011
+"434","r&b","neo soul",2018,39.8478260869565
+"435","r&b","neo soul",2019,44.8409090909091
+"436","r&b","neo soul",2020,10.6666666666667
+"437","r&b","neo soul",NA,69
+"438","r&b","new jack swing",1979,48
+"439","r&b","new jack swing",1980,58
+"440","r&b","new jack swing",1982,58
+"441","r&b","new jack swing",1984,60.2
+"442","r&b","new jack swing",1985,52.6666666666667
+"443","r&b","new jack swing",1986,26.0952380952381
+"444","r&b","new jack swing",1987,41.9545454545455
+"445","r&b","new jack swing",1988,34.7454545454545
+"446","r&b","new jack swing",1989,32.3777777777778
+"447","r&b","new jack swing",1990,28.0428571428571
+"448","r&b","new jack swing",1991,29.1298701298701
+"449","r&b","new jack swing",1992,28.4634146341463
+"450","r&b","new jack swing",1993,30.03125
+"451","r&b","new jack swing",1994,29.4821428571429
+"452","r&b","new jack swing",1995,33.2325581395349
+"453","r&b","new jack swing",1996,36.55
+"454","r&b","new jack swing",1997,33.8409090909091
+"455","r&b","new jack swing",1998,34.3214285714286
+"456","r&b","new jack swing",1999,36.1875
+"457","r&b","new jack swing",2000,23.8048780487805
+"458","r&b","new jack swing",2001,29.25
+"459","r&b","new jack swing",2002,20.7352941176471
+"460","r&b","new jack swing",2003,27.4838709677419
+"461","r&b","new jack swing",2004,29.96875
+"462","r&b","new jack swing",2005,17.8510638297872
+"463","r&b","new jack swing",2006,11.5625
+"464","r&b","new jack swing",2007,19.8333333333333
+"465","r&b","new jack swing",2008,18.2105263157895
+"466","r&b","new jack swing",2009,13.3529411764706
+"467","r&b","new jack swing",2010,21.2307692307692
+"468","r&b","new jack swing",2011,7.6875
+"469","r&b","new jack swing",2012,10.5333333333333
+"470","r&b","new jack swing",2013,16
+"471","r&b","new jack swing",2014,16.28125
+"472","r&b","new jack swing",2015,18
+"473","r&b","new jack swing",2016,24.6666666666667
+"474","r&b","new jack swing",2017,7.66666666666667
+"475","r&b","new jack swing",2018,58
+"476","r&b","new jack swing",2019,18.5
+"477","r&b","urban contemporary",1957,59
+"478","r&b","urban contemporary",1960,19
+"479","r&b","urban contemporary",1961,47
+"480","r&b","urban contemporary",1962,64
+"481","r&b","urban contemporary",1965,40.6666666666667
+"482","r&b","urban contemporary",1966,37
+"483","r&b","urban contemporary",1967,66
+"484","r&b","urban contemporary",1968,72
+"485","r&b","urban contemporary",1969,62.25
+"486","r&b","urban contemporary",1970,50.3333333333333
+"487","r&b","urban contemporary",1971,46.3333333333333
+"488","r&b","urban contemporary",1972,52.6
+"489","r&b","urban contemporary",1973,28
+"490","r&b","urban contemporary",1974,38.3
+"491","r&b","urban contemporary",1975,44.7142857142857
+"492","r&b","urban contemporary",1976,53.2222222222222
+"493","r&b","urban contemporary",1977,37.6666666666667
+"494","r&b","urban contemporary",1978,50.6
+"495","r&b","urban contemporary",1979,70
+"496","r&b","urban contemporary",1980,52
+"497","r&b","urban contemporary",1981,68.5
+"498","r&b","urban contemporary",1982,53.5
+"499","r&b","urban contemporary",1983,65
+"500","r&b","urban contemporary",1984,53
+"501","r&b","urban contemporary",1985,58.5
+"502","r&b","urban contemporary",1986,50.6666666666667
+"503","r&b","urban contemporary",1987,2
+"504","r&b","urban contemporary",1988,47.75
+"505","r&b","urban contemporary",1989,53
+"506","r&b","urban contemporary",1990,45.4
+"507","r&b","urban contemporary",1991,60.3333333333333
+"508","r&b","urban contemporary",1992,49.75
+"509","r&b","urban contemporary",1993,55.2
+"510","r&b","urban contemporary",1994,42.75
+"511","r&b","urban contemporary",1995,44.5
+"512","r&b","urban contemporary",1996,55.8888888888889
+"513","r&b","urban contemporary",1997,57.9166666666667
+"514","r&b","urban contemporary",1998,46.2727272727273
+"515","r&b","urban contemporary",1999,57.0769230769231
+"516","r&b","urban contemporary",2000,42.2857142857143
+"517","r&b","urban contemporary",2001,52.9285714285714
+"518","r&b","urban contemporary",2002,41.9090909090909
+"519","r&b","urban contemporary",2003,56.4615384615385
+"520","r&b","urban contemporary",2004,40.5384615384615
+"521","r&b","urban contemporary",2005,45.4615384615385
+"522","r&b","urban contemporary",2006,50.7142857142857
+"523","r&b","urban contemporary",2007,57.5
+"524","r&b","urban contemporary",2008,38.5555555555556
+"525","r&b","urban contemporary",2009,35.5
+"526","r&b","urban contemporary",2010,21.6315789473684
+"527","r&b","urban contemporary",2011,36.1176470588235
+"528","r&b","urban contemporary",2012,52.8571428571429
+"529","r&b","urban contemporary",2013,30.7407407407407
+"530","r&b","urban contemporary",2014,34.6410256410256
+"531","r&b","urban contemporary",2015,33.7162162162162
+"532","r&b","urban contemporary",2016,45.8153846153846
+"533","r&b","urban contemporary",2017,51.6645161290323
+"534","r&b","urban contemporary",2018,50.5852272727273
+"535","r&b","urban contemporary",2019,60.9236276849642
+"536","r&b","urban contemporary",2020,54.3333333333333
+"537","r&b","urban contemporary",NA,54.3333333333333
+"538","rap","gangster rap",1987,57.5
+"539","rap","gangster rap",1988,38.5
+"540","rap","gangster rap",1989,51
+"541","rap","gangster rap",1990,51
+"542","rap","gangster rap",1991,44.8888888888889
+"543","rap","gangster rap",1992,34
+"544","rap","gangster rap",1993,49.0666666666667
+"545","rap","gangster rap",1994,42.53125
+"546","rap","gangster rap",1995,49.2173913043478
+"547","rap","gangster rap",1996,50.5128205128205
+"548","rap","gangster rap",1997,37.304347826087
+"549","rap","gangster rap",1998,31.3333333333333
+"550","rap","gangster rap",1999,34.175
+"551","rap","gangster rap",2000,23.7692307692308
+"552","rap","gangster rap",2001,24.1666666666667
+"553","rap","gangster rap",2002,23.9
+"554","rap","gangster rap",2003,33.55
+"555","rap","gangster rap",2004,27.1470588235294
+"556","rap","gangster rap",2005,19.3953488372093
+"557","rap","gangster rap",2006,26.5882352941176
+"558","rap","gangster rap",2007,30.275
+"559","rap","gangster rap",2008,23.0909090909091
+"560","rap","gangster rap",2009,15.6666666666667
+"561","rap","gangster rap",2010,23.6176470588235
+"562","rap","gangster rap",2011,28.4864864864865
+"563","rap","gangster rap",2012,35.6896551724138
+"564","rap","gangster rap",2013,24.6818181818182
+"565","rap","gangster rap",2014,26.2549019607843
+"566","rap","gangster rap",2015,32.3763440860215
+"567","rap","gangster rap",2016,37.6415094339623
+"568","rap","gangster rap",2017,31.3060109289617
+"569","rap","gangster rap",2018,36.5889570552147
+"570","rap","gangster rap",2019,48.5927835051546
+"571","rap","gangster rap",2020,46.2
+"572","rap","hip hop",1995,73
+"573","rap","hip hop",1996,77
+"574","rap","hip hop",1998,63
+"575","rap","hip hop",1999,55.75
+"576","rap","hip hop",2000,44.3333333333333
+"577","rap","hip hop",2001,56.3333333333333
+"578","rap","hip hop",2002,58
+"579","rap","hip hop",2003,58.5
+"580","rap","hip hop",2004,52.7857142857143
+"581","rap","hip hop",2005,50.2142857142857
+"582","rap","hip hop",2006,58.6
+"583","rap","hip hop",2007,47.6
+"584","rap","hip hop",2008,57.7777777777778
+"585","rap","hip hop",2009,55.1111111111111
+"586","rap","hip hop",2010,66.1666666666667
+"587","rap","hip hop",2012,68
+"588","rap","hip hop",2013,5.5
+"589","rap","hip hop",2014,56.6153846153846
+"590","rap","hip hop",2015,54.2051282051282
+"591","rap","hip hop",2016,55.3333333333333
+"592","rap","hip hop",2017,46.0769230769231
+"593","rap","hip hop",2018,49.2718894009217
+"594","rap","hip hop",2019,55.2760898282695
+"595","rap","hip hop",2020,55.8367346938776
+"596","rap","southern hip hop",1968,53.5
+"597","rap","southern hip hop",1969,38
+"598","rap","southern hip hop",1970,12
+"599","rap","southern hip hop",1971,3
+"600","rap","southern hip hop",1972,52
+"601","rap","southern hip hop",1973,38
+"602","rap","southern hip hop",1974,64.5
+"603","rap","southern hip hop",1976,36
+"604","rap","southern hip hop",1978,72
+"605","rap","southern hip hop",1981,36
+"606","rap","southern hip hop",1982,62.5
+"607","rap","southern hip hop",1983,39
+"608","rap","southern hip hop",1984,43
+"609","rap","southern hip hop",1985,45
+"610","rap","southern hip hop",1986,57
+"611","rap","southern hip hop",1987,45.3333333333333
+"612","rap","southern hip hop",1988,42.3333333333333
+"613","rap","southern hip hop",1989,41.25
+"614","rap","southern hip hop",1990,34.125
+"615","rap","southern hip hop",1991,43.375
+"616","rap","southern hip hop",1992,41.9090909090909
+"617","rap","southern hip hop",1993,50.1428571428571
+"618","rap","southern hip hop",1994,51.4791666666667
+"619","rap","southern hip hop",1995,45.3921568627451
+"620","rap","southern hip hop",1996,42.5818181818182
+"621","rap","southern hip hop",1997,39.1153846153846
+"622","rap","southern hip hop",1998,27.5135135135135
+"623","rap","southern hip hop",1999,29.7111111111111
+"624","rap","southern hip hop",2000,31.4571428571429
+"625","rap","southern hip hop",2001,30.875
+"626","rap","southern hip hop",2002,38.4324324324324
+"627","rap","southern hip hop",2003,36.04
+"628","rap","southern hip hop",2004,34
+"629","rap","southern hip hop",2005,33.8840579710145
+"630","rap","southern hip hop",2006,37.2105263157895
+"631","rap","southern hip hop",2007,38.4210526315789
+"632","rap","southern hip hop",2008,31.8181818181818
+"633","rap","southern hip hop",2009,24.1612903225806
+"634","rap","southern hip hop",2010,27.9411764705882
+"635","rap","southern hip hop",2011,34.1627906976744
+"636","rap","southern hip hop",2012,28.2650602409639
+"637","rap","southern hip hop",2013,24.1967213114754
+"638","rap","southern hip hop",2014,28.28
+"639","rap","southern hip hop",2015,40.3048780487805
+"640","rap","southern hip hop",2016,36.9765625
+"641","rap","southern hip hop",2017,37.381679389313
+"642","rap","southern hip hop",2018,42.1754385964912
+"643","rap","southern hip hop",2019,50.3529411764706
+"644","rap","southern hip hop",NA,79
+"645","rap","trap",2012,51.75
+"646","rap","trap",2013,33.25
+"647","rap","trap",2014,45.4545454545455
+"648","rap","trap",2015,47.2857142857143
+"649","rap","trap",2016,50.5294117647059
+"650","rap","trap",2017,45.9166666666667
+"651","rap","trap",2018,43.2462686567164
+"652","rap","trap",2019,53.9987577639752
+"653","rap","trap",2020,41.9285714285714
+"654","rock","album rock",1963,59
+"655","rock","album rock",1964,15.5
+"656","rock","album rock",1965,76
+"657","rock","album rock",1966,63.3333333333333
+"658","rock","album rock",1967,46.375
+"659","rock","album rock",1968,59.2
+"660","rock","album rock",1969,43.0909090909091
+"661","rock","album rock",1970,36.56
+"662","rock","album rock",1971,42.5238095238095
+"663","rock","album rock",1972,51.2727272727273
+"664","rock","album rock",1973,38.7222222222222
+"665","rock","album rock",1974,40.6216216216216
+"666","rock","album rock",1975,52.5454545454545
+"667","rock","album rock",1976,43.7878787878788
+"668","rock","album rock",1977,51.56
+"669","rock","album rock",1978,43.1891891891892
+"670","rock","album rock",1979,57.5
+"671","rock","album rock",1980,47
+"672","rock","album rock",1981,60.3333333333333
+"673","rock","album rock",1982,50.7727272727273
+"674","rock","album rock",1983,42.2857142857143
+"675","rock","album rock",1984,33.8684210526316
+"676","rock","album rock",1985,35.05
+"677","rock","album rock",1986,51.4545454545455
+"678","rock","album rock",1987,39.6451612903226
+"679","rock","album rock",1988,57.5714285714286
+"680","rock","album rock",1989,50.3
+"681","rock","album rock",1990,56
+"682","rock","album rock",1991,15.0588235294118
+"683","rock","album rock",1992,40.5
+"684","rock","album rock",1993,43.8
+"685","rock","album rock",1994,53
+"686","rock","album rock",1995,22.5
+"687","rock","album rock",1996,39.7142857142857
+"688","rock","album rock",1997,23.125
+"689","rock","album rock",1998,35.4166666666667
+"690","rock","album rock",1999,52.1666666666667
+"691","rock","album rock",2000,37.3333333333333
+"692","rock","album rock",2001,25.1333333333333
+"693","rock","album rock",2002,42.5
+"694","rock","album rock",2003,43.7857142857143
+"695","rock","album rock",2004,50
+"696","rock","album rock",2005,21.9701492537313
+"697","rock","album rock",2006,42.2380952380952
+"698","rock","album rock",2007,31.8387096774194
+"699","rock","album rock",2008,28.6086956521739
+"700","rock","album rock",2009,29.3571428571429
+"701","rock","album rock",2010,16.0263157894737
+"702","rock","album rock",2011,34.5714285714286
+"703","rock","album rock",2012,17
+"704","rock","album rock",2013,50.5
+"705","rock","album rock",2014,39.5882352941176
+"706","rock","album rock",2015,27.7222222222222
+"707","rock","album rock",2016,29
+"708","rock","album rock",2017,18
+"709","rock","album rock",2018,38.25
+"710","rock","album rock",2019,42.3333333333333
+"711","rock","album rock",NA,61.4
+"712","rock","classic rock",1958,73
+"713","rock","classic rock",1962,64
+"714","rock","classic rock",1963,35.5
+"715","rock","classic rock",1964,42
+"716","rock","classic rock",1965,65.5
+"717","rock","classic rock",1966,44
+"718","rock","classic rock",1967,56.3333333333333
+"719","rock","classic rock",1968,64.125
+"720","rock","classic rock",1969,48
+"721","rock","classic rock",1970,44.8846153846154
+"722","rock","classic rock",1971,47.7391304347826
+"723","rock","classic rock",1972,54.8648648648649
+"724","rock","classic rock",1973,50.0606060606061
+"725","rock","classic rock",1974,45.3529411764706
+"726","rock","classic rock",1975,47.45
+"727","rock","classic rock",1976,46.1774193548387
+"728","rock","classic rock",1977,53.8409090909091
+"729","rock","classic rock",1978,46.5416666666667
+"730","rock","classic rock",1979,51.5666666666667
+"731","rock","classic rock",1980,62.7096774193548
+"732","rock","classic rock",1981,52.6875
+"733","rock","classic rock",1982,52.1428571428571
+"734","rock","classic rock",1983,57.4166666666667
+"735","rock","classic rock",1984,47.12
+"736","rock","classic rock",1985,53.6153846153846
+"737","rock","classic rock",1986,42.6428571428571
+"738","rock","classic rock",1987,35.0769230769231
+"739","rock","classic rock",1988,51.5
+"740","rock","classic rock",1989,57.3076923076923
+"741","rock","classic rock",1990,46.1538461538462
+"742","rock","classic rock",1991,45.3333333333333
+"743","rock","classic rock",1992,49.6666666666667
+"744","rock","classic rock",1993,26.8181818181818
+"745","rock","classic rock",1994,39.7142857142857
+"746","rock","classic rock",1995,23
+"747","rock","classic rock",1996,40
+"748","rock","classic rock",1997,43.6666666666667
+"749","rock","classic rock",1998,23.6428571428571
+"750","rock","classic rock",1999,49.3333333333333
+"751","rock","classic rock",2000,26.375
+"752","rock","classic rock",2001,41.5
+"753","rock","classic rock",2002,26.7272727272727
+"754","rock","classic rock",2003,34.0769230769231
+"755","rock","classic rock",2004,33.1875
+"756","rock","classic rock",2005,25.046511627907
+"757","rock","classic rock",2006,40.32
+"758","rock","classic rock",2007,31.5555555555556
+"759","rock","classic rock",2008,18.1020408163265
+"760","rock","classic rock",2009,16.1851851851852
+"761","rock","classic rock",2010,21.5277777777778
+"762","rock","classic rock",2011,35.6315789473684
+"763","rock","classic rock",2012,34
+"764","rock","classic rock",2013,38.5
+"765","rock","classic rock",2014,36.5454545454545
+"766","rock","classic rock",2015,18.1666666666667
+"767","rock","classic rock",2016,19.45
+"768","rock","classic rock",2017,35.6363636363636
+"769","rock","classic rock",2018,41.8421052631579
+"770","rock","classic rock",2019,35.8
+"771","rock","classic rock",2020,50.6666666666667
+"772","rock","classic rock",NA,42.5333333333333
+"773","rock","hard rock",1963,15
+"774","rock","hard rock",1965,1
+"775","rock","hard rock",1966,73
+"776","rock","hard rock",1967,29
+"777","rock","hard rock",1968,46
+"778","rock","hard rock",1969,44
+"779","rock","hard rock",1970,36.4285714285714
+"780","rock","hard rock",1971,34.0714285714286
+"781","rock","hard rock",1972,37.1111111111111
+"782","rock","hard rock",1973,38.5
+"783","rock","hard rock",1974,24.8
+"784","rock","hard rock",1975,39.4444444444444
+"785","rock","hard rock",1976,36.1111111111111
+"786","rock","hard rock",1977,25.1538461538462
+"787","rock","hard rock",1978,40.6666666666667
+"788","rock","hard rock",1979,30.4615384615385
+"789","rock","hard rock",1980,42.5
+"790","rock","hard rock",1981,23.8333333333333
+"791","rock","hard rock",1982,35.125
+"792","rock","hard rock",1983,40.5
+"793","rock","hard rock",1984,34.9090909090909
+"794","rock","hard rock",1985,50.7
+"795","rock","hard rock",1986,44.2941176470588
+"796","rock","hard rock",1987,37.9230769230769
+"797","rock","hard rock",1988,37.7727272727273
+"798","rock","hard rock",1989,42.3529411764706
+"799","rock","hard rock",1990,53.4166666666667
+"800","rock","hard rock",1991,38.3333333333333
+"801","rock","hard rock",1992,51.7142857142857
+"802","rock","hard rock",1993,26.6666666666667
+"803","rock","hard rock",1994,40
+"804","rock","hard rock",1995,42.2857142857143
+"805","rock","hard rock",1996,22.3333333333333
+"806","rock","hard rock",1997,39.6666666666667
+"807","rock","hard rock",1998,35
+"808","rock","hard rock",1999,58
+"809","rock","hard rock",2000,31.44
+"810","rock","hard rock",2001,31.6451612903226
+"811","rock","hard rock",2002,46.75
+"812","rock","hard rock",2003,35.6315789473684
+"813","rock","hard rock",2004,40.8064516129032
+"814","rock","hard rock",2005,36.1212121212121
+"815","rock","hard rock",2006,47.9333333333333
+"816","rock","hard rock",2007,24.0555555555556
+"817","rock","hard rock",2008,24.7659574468085
+"818","rock","hard rock",2009,25.5454545454545
+"819","rock","hard rock",2010,31.3529411764706
+"820","rock","hard rock",2011,33.9523809523809
+"821","rock","hard rock",2012,29.3333333333333
+"822","rock","hard rock",2013,33.4716981132075
+"823","rock","hard rock",2014,22.95
+"824","rock","hard rock",2015,45.92
+"825","rock","hard rock",2016,40.5789473684211
+"826","rock","hard rock",2017,38.6046511627907
+"827","rock","hard rock",2018,37.7205882352941
+"828","rock","hard rock",2019,36.4032697547684
+"829","rock","hard rock",2020,37.59375
+"830","rock","hard rock",NA,12.3333333333333
+"831","rock","permanent wave",1964,71.5
+"832","rock","permanent wave",1965,38.5
+"833","rock","permanent wave",1966,63.5
+"834","rock","permanent wave",1967,37.1666666666667
+"835","rock","permanent wave",1968,55
+"836","rock","permanent wave",1969,60.3333333333333
+"837","rock","permanent wave",1970,64.7692307692308
+"838","rock","permanent wave",1971,48.1666666666667
+"839","rock","permanent wave",1972,56.5454545454545
+"840","rock","permanent wave",1973,63.3333333333333
+"841","rock","permanent wave",1974,56.6666666666667
+"842","rock","permanent wave",1975,58.875
+"843","rock","permanent wave",1976,63
+"844","rock","permanent wave",1977,62.7272727272727
+"845","rock","permanent wave",1978,54.6153846153846
+"846","rock","permanent wave",1979,59.4666666666667
+"847","rock","permanent wave",1980,50.9285714285714
+"848","rock","permanent wave",1981,58.2666666666667
+"849","rock","permanent wave",1982,53.8571428571429
+"850","rock","permanent wave",1983,55.44
+"851","rock","permanent wave",1984,55.4782608695652
+"852","rock","permanent wave",1985,54.0357142857143
+"853","rock","permanent wave",1986,49.4090909090909
+"854","rock","permanent wave",1987,56.1935483870968
+"855","rock","permanent wave",1988,52.4761904761905
+"856","rock","permanent wave",1989,56.5
+"857","rock","permanent wave",1990,53.1538461538462
+"858","rock","permanent wave",1991,56.9583333333333
+"859","rock","permanent wave",1992,59.25
+"860","rock","permanent wave",1993,57.5
+"861","rock","permanent wave",1994,54.0769230769231
+"862","rock","permanent wave",1995,53.6923076923077
+"863","rock","permanent wave",1996,52.6666666666667
+"864","rock","permanent wave",1997,64.2571428571429
+"865","rock","permanent wave",1998,61.6538461538462
+"866","rock","permanent wave",1999,57.6296296296296
+"867","rock","permanent wave",2000,60.3809523809524
+"868","rock","permanent wave",2001,63.0357142857143
+"869","rock","permanent wave",2002,54.3846153846154
+"870","rock","permanent wave",2003,54.0384615384615
+"871","rock","permanent wave",2004,62.4583333333333
+"872","rock","permanent wave",2005,54.6969696969697
+"873","rock","permanent wave",2006,58.04
+"874","rock","permanent wave",2007,62.8
+"875","rock","permanent wave",2008,52.2173913043478
+"876","rock","permanent wave",2009,56.7857142857143
+"877","rock","permanent wave",2010,49.25
+"878","rock","permanent wave",2011,57.7727272727273
+"879","rock","permanent wave",2012,58.8235294117647
+"880","rock","permanent wave",2013,50.3478260869565
+"881","rock","permanent wave",2014,52.2
+"882","rock","permanent wave",2015,53.5555555555556
+"883","rock","permanent wave",2016,52.3103448275862
+"884","rock","permanent wave",2017,49.4333333333333
+"885","rock","permanent wave",2018,47.6176470588235
+"886","rock","permanent wave",2019,34.9247311827957
+"887","rock","permanent wave",2020,41.4615384615385
+"888","rock","permanent wave",NA,69

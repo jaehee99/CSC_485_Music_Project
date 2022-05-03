@@ -2,6 +2,10 @@ library(tidyverse)
 Spotify_Music <- read_csv("Spotify_Music.csv")
 
 Spotify_Music %>%  
+  group_by(genre, subgenre, year) %>%  
+  summarise(subgenre_mean = mean(popularity)) -> a
+
+Spotify_Music %>%  
   group_by(genre, year) %>%  
   summarise_at(vars(popularity), list(m_popularity = mean)) -> m_popularity
 
