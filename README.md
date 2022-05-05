@@ -1,5 +1,5 @@
 # Here is the link to this Project 
-https://www.youtube.com/watch?v=93y_evpbqTM&t=74s
+https://youtu.be/93y_evpbqTM
 # Project Proposal 
 
 ## 0. Brief Overview
