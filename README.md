@@ -4,7 +4,6 @@ https://observablehq.com/@ca25d09366015836/csc-485-final-project-report
 
 ## Here is the link to this Project Video 
 https://youtu.be/93y_evpbqTM
-# Project Proposal 
 
 ## 0. Brief Overview
 
