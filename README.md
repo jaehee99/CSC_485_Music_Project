@@ -1,8 +1,8 @@
 # Interactive Info Visualization of Spotify Music Genre Overtime
-## Here is the link to this Project Observable Notebook 
+### Here is the link to this Project Observable Notebook 
 https://observablehq.com/@ca25d09366015836/csc-485-final-project-report
 
-## Here is the link to this Project Video 
+### Here is the link to this Project Video 
 https://youtu.be/93y_evpbqTM
 
 ## 0. Brief Overview
